@@ -68,6 +68,8 @@ endmodule
 
 
 **TRUTH TABLE**
+
+
 ![Screenshot 2024-05-05 185704](https://github.com/ZafreenJagir/SYNCHRONOUS-UP-COUNTER/assets/144870573/3dc2b5e7-c539-4e8a-88ae-1dc4f8c2a18f)
 
 **RESULTS**
